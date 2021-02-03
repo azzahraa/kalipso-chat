@@ -1,0 +1,7 @@
+{
+    "name" :"kalipso chat",
+    "engines": {
+        "node": "6.14.6"
+      },
+    "repository":"https://github.com/azzahraa/kalipso-chat.git"
+}
